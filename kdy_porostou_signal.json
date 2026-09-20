@@ -1,0 +1,229 @@
+{
+  "generated_at": "2026-09-20T08:40:21.750730+00:00",
+  "kraje": {
+    "praha": {
+      "chmu_wetness_0_1": 0.011,
+      "chmu_source": {
+        "gauge": "Mělník",
+        "river": "Labe",
+        "q_now_m3s": 68,
+        "qa_normal_m3s": 233,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.597,
+      "community_source": {
+        "posts_7d": 32,
+        "species_keyword_hit_rate": 0.12,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "stredocesky": {
+      "chmu_wetness_0_1": 0.18,
+      "chmu_source": {
+        "gauge": "Praha-Zbraslav",
+        "river": "Vltava",
+        "q_now_m3s": 41.03986,
+        "qa_normal_m3s": 98,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.0,
+      "community_source": {
+        "posts_7d": 13,
+        "species_keyword_hit_rate": 0.46,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "jihocesky": {
+      "chmu_wetness_0_1": 0.003,
+      "chmu_source": {
+        "gauge": "České Budějovice",
+        "river": "Vltava",
+        "q_now_m3s": 7.42,
+        "qa_normal_m3s": 25.6,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.754,
+      "community_source": {
+        "posts_7d": 38,
+        "species_keyword_hit_rate": 0.08,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "plzensky": {
+      "chmu_wetness_0_1": 0.023,
+      "chmu_source": {
+        "gauge": "Plzeň-Bílá Hora",
+        "river": "Berounka",
+        "q_now_m3s": 4.22676,
+        "qa_normal_m3s": 17.5,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.47,
+      "community_source": {
+        "posts_7d": 24,
+        "species_keyword_hit_rate": 0.12,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "karlovarsky": {
+      "chmu_wetness_0_1": 0.003,
+      "chmu_source": {
+        "gauge": "Karlovy Vary-Drahovice",
+        "river": "Ohře",
+        "q_now_m3s": 4.08164,
+        "qa_normal_m3s": 25.5,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.024,
+      "community_source": {
+        "posts_7d": 16,
+        "species_keyword_hit_rate": 0.0,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "ustecky": {
+      "chmu_wetness_0_1": 0.016,
+      "chmu_source": {
+        "gauge": "Trmice",
+        "river": "Bílina",
+        "q_now_m3s": 1.62745,
+        "qa_normal_m3s": 5.91,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.515,
+      "community_source": {
+        "posts_7d": 26,
+        "species_keyword_hit_rate": 0.27,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "liberecky": {
+      "chmu_wetness_0_1": 0.003,
+      "chmu_source": {
+        "gauge": "Tuřice-Předměřice",
+        "river": "Jizera",
+        "q_now_m3s": 2.89709,
+        "qa_normal_m3s": 23.1,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.178,
+      "community_source": {
+        "posts_7d": 22,
+        "species_keyword_hit_rate": 0.14,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "kralovehradecky": {
+      "chmu_wetness_0_1": 0.011,
+      "chmu_source": {
+        "gauge": "Němčice",
+        "river": "Labe",
+        "q_now_m3s": 8.9721,
+        "qa_normal_m3s": 41.8,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.221,
+      "community_source": {
+        "posts_7d": 20,
+        "species_keyword_hit_rate": 0.15,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "pardubicky": {
+      "chmu_wetness_0_1": 0.003,
+      "chmu_source": {
+        "gauge": "Přelouč",
+        "river": "Labe",
+        "q_now_m3s": 10.72036,
+        "qa_normal_m3s": 53.5,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.124,
+      "community_source": {
+        "posts_7d": 20,
+        "species_keyword_hit_rate": 0.0,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "vysocina": {
+      "chmu_wetness_0_1": 0.197,
+      "chmu_source": {
+        "gauge": "Třebíč-Ptáčov",
+        "river": "Jihlava",
+        "q_now_m3s": 1.81624,
+        "qa_normal_m3s": 4.98,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.537,
+      "community_source": {
+        "posts_7d": 29,
+        "species_keyword_hit_rate": 0.14,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "jihomoravsky": {
+      "chmu_wetness_0_1": 0.003,
+      "chmu_source": {
+        "gauge": "Židlochovice",
+        "river": "Svratka",
+        "q_now_m3s": 1.91282,
+        "qa_normal_m3s": 14,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 1.0,
+      "community_source": {
+        "posts_7d": 34,
+        "species_keyword_hit_rate": 0.26,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "olomoucky": {
+      "chmu_wetness_0_1": 0.019,
+      "chmu_source": {
+        "gauge": "Olomouc-Nové Sady",
+        "river": "Morava",
+        "q_now_m3s": 4.07273,
+        "qa_normal_m3s": 24.5,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.363,
+      "community_source": {
+        "posts_7d": 23,
+        "species_keyword_hit_rate": 0.17,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "zlinsky": {
+      "chmu_wetness_0_1": 0.03,
+      "chmu_source": {
+        "gauge": "Strážnice",
+        "river": "Morava",
+        "q_now_m3s": 8.16432,
+        "qa_normal_m3s": 54.7,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.947,
+      "community_source": {
+        "posts_7d": 37,
+        "species_keyword_hit_rate": 0.35,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    },
+    "moravskoslezsky": {
+      "chmu_wetness_0_1": 0.003,
+      "chmu_source": {
+        "gauge": "Svinov",
+        "river": "Odra",
+        "q_now_m3s": 0.47801,
+        "qa_normal_m3s": 12.5,
+        "reference_period": "1991 - 2020"
+      },
+      "community_activity_0_1": 0.381,
+      "community_source": {
+        "posts_7d": 21,
+        "species_keyword_hit_rate": 0.24,
+        "provider": "nahouby.cz/kde-rostou"
+      }
+    }
+  }
+}
