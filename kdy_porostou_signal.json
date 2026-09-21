@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:00:17.038809+00:00",
+  "generated_at": "2026-09-21T22:00:16.711140+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.015,
@@ -26,7 +26,7 @@
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.324,
+      "community_activity_0_1": 0.325,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.25,
@@ -34,11 +34,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.022,
+      "chmu_wetness_0_1": 0.01,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.49,
+        "q_now_m3s": 8.68,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -90,19 +90,19 @@
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.327,
+      "community_activity_0_1": 0.27,
       "community_source": {
-        "posts_7d": 22,
-        "species_keyword_hit_rate": 0.23,
+        "posts_7d": 20,
+        "species_keyword_hit_rate": 0.2,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.407,
+      "chmu_wetness_0_1": 0.422,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 13.77908,
+        "q_now_m3s": 14.125,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -130,15 +130,15 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.013,
+      "chmu_wetness_0_1": 0.024,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 12.09601,
+        "q_now_m3s": 13.26682,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.078,
+      "community_activity_0_1": 0.077,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.0,
@@ -202,7 +202,7 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.742,
+      "community_activity_0_1": 0.741,
       "community_source": {
         "posts_7d": 33,
         "species_keyword_hit_rate": 0.42,
