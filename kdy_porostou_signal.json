@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:00:15.262021+00:00",
+  "generated_at": "2026-09-22T04:00:16.015206+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -30,15 +30,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.01,
+      "chmu_wetness_0_1": 0.015,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 8.68,
+        "q_now_m3s": 9.05,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.585,
+      "community_activity_0_1": 0.584,
       "community_source": {
         "posts_7d": 38,
         "species_keyword_hit_rate": 0.08,
@@ -94,11 +94,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.367,
+      "chmu_wetness_0_1": 0.38,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 12.79036,
+        "q_now_m3s": 13.11176,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -110,11 +110,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.021,
+      "chmu_wetness_0_1": 0.025,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 9.6974,
+        "q_now_m3s": 9.94822,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -134,7 +134,7 @@
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.077,
+      "community_activity_0_1": 0.076,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.0,
@@ -142,15 +142,15 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.197,
+      "chmu_wetness_0_1": 0.128,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.81624,
+        "q_now_m3s": 1.52962,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.503,
+      "community_activity_0_1": 0.502,
       "community_source": {
         "posts_7d": 31,
         "species_keyword_hit_rate": 0.13,
@@ -178,7 +178,7 @@
       "chmu_source": {
         "gauge": "Olomouc-Nové Sady",
         "river": "Morava",
-        "q_now_m3s": 2.81358,
+        "q_now_m3s": 3.10339,
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
