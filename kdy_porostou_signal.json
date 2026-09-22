@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:00:16.269405+00:00",
+  "generated_at": "2026-09-22T19:00:15.929452+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.021,
@@ -10,9 +10,9 @@
         "qa_normal_m3s": 233,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.254,
+      "community_activity_0_1": 0.289,
       "community_source": {
-        "posts_7d": 29,
+        "posts_7d": 30,
         "species_keyword_hit_rate": 0.17,
         "provider": "nahouby.cz/kde-rostou"
       }
@@ -26,23 +26,23 @@
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.32,
+      "community_activity_0_1": 0.356,
       "community_source": {
-        "posts_7d": 22,
-        "species_keyword_hit_rate": 0.23,
+        "posts_7d": 23,
+        "species_keyword_hit_rate": 0.22,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.031,
+      "chmu_wetness_0_1": 0.021,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.95,
+        "q_now_m3s": 9.45,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.463,
+      "community_activity_0_1": 0.462,
       "community_source": {
         "posts_7d": 39,
         "species_keyword_hit_rate": 0.08,
@@ -58,10 +58,10 @@
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.391,
+      "community_activity_0_1": 0.426,
       "community_source": {
-        "posts_7d": 26,
-        "species_keyword_hit_rate": 0.12,
+        "posts_7d": 27,
+        "species_keyword_hit_rate": 0.11,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
@@ -98,11 +98,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.162,
+      "chmu_wetness_0_1": 0.086,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 9.05091,
+        "q_now_m3s": 7.66893,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.044,
+      "chmu_wetness_0_1": 0.025,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 10.99676,
+        "q_now_m3s": 9.94822,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -134,7 +134,7 @@
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 10.40956,
+        "q_now_m3s": 11.04441,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -146,17 +146,17 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.308,
+      "chmu_wetness_0_1": 0.256,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 2.24372,
+        "q_now_m3s": 2.02351,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.437,
+      "community_activity_0_1": 0.472,
       "community_source": {
-        "posts_7d": 33,
+        "posts_7d": 34,
         "species_keyword_hit_rate": 0.12,
         "provider": "nahouby.cz/kde-rostou"
       }
@@ -166,7 +166,7 @@
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 2.04426,
+        "q_now_m3s": 1.91282,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
@@ -202,10 +202,10 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.655,
+      "community_activity_0_1": 0.515,
       "community_source": {
-        "posts_7d": 35,
-        "species_keyword_hit_rate": 0.37,
+        "posts_7d": 29,
+        "species_keyword_hit_rate": 0.24,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
