@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:00:24.010477+00:00",
+  "generated_at": "2026-09-23T00:00:15.553418+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.021,
@@ -34,15 +34,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.015,
+      "chmu_wetness_0_1": 0.019,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.06,
+        "q_now_m3s": 9.32,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.443,
+      "community_activity_0_1": 0.442,
       "community_source": {
         "posts_7d": 39,
         "species_keyword_hit_rate": 0.08,
@@ -58,7 +58,7 @@
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.321,
+      "community_activity_0_1": 0.322,
       "community_source": {
         "posts_7d": 24,
         "species_keyword_hit_rate": 0.08,
@@ -82,15 +82,15 @@
       }
     },
     "ustecky": {
-      "chmu_wetness_0_1": 0.021,
+      "chmu_wetness_0_1": 0.005,
       "chmu_source": {
         "gauge": "Trmice",
         "river": "Bílina",
-        "q_now_m3s": 1.74217,
+        "q_now_m3s": 1.40748,
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.163,
+      "community_activity_0_1": 0.164,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.2,
@@ -98,11 +98,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.128,
+      "chmu_wetness_0_1": 0.179,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 8.48506,
+        "q_now_m3s": 9.33751,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -114,15 +114,15 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.007,
+      "chmu_wetness_0_1": 0.004,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 8.73939,
+        "q_now_m3s": 8.51121,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.117,
+      "community_activity_0_1": 0.118,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.15,
@@ -202,7 +202,7 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.507,
+      "community_activity_0_1": 0.508,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.18,
