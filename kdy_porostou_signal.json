@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:00:16.851032+00:00",
+  "generated_at": "2026-09-24T23:00:17.153655+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.003,
@@ -38,11 +38,11 @@
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 8.11,
+        "q_now_m3s": 8.07,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.522,
+      "community_activity_0_1": 0.521,
       "community_source": {
         "posts_7d": 40,
         "species_keyword_hit_rate": 0.05,
@@ -54,7 +54,7 @@
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 2.38864,
+        "q_now_m3s": 2.60766,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
@@ -98,11 +98,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.058,
+      "chmu_wetness_0_1": 0.025,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 6.89195,
+        "q_now_m3s": 5.91688,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -138,7 +138,7 @@
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.005,
+      "community_activity_0_1": 0.004,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.0,
@@ -146,11 +146,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.017,
+      "chmu_wetness_0_1": 0.027,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 0.84455,
+        "q_now_m3s": 0.97413,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -166,7 +166,7 @@
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 2.17763,
+        "q_now_m3s": 2.45012,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
