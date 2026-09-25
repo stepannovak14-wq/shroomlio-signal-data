@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:00:19.599008+00:00",
+  "generated_at": "2026-09-25T09:00:17.777034+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.004,
@@ -34,15 +34,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.063,
+      "chmu_wetness_0_1": 0.006,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 10.57,
+        "q_now_m3s": 8.42,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.559,
+      "community_activity_0_1": 0.558,
       "community_source": {
         "posts_7d": 40,
         "species_keyword_hit_rate": 0.05,
@@ -98,11 +98,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.179,
+      "chmu_wetness_0_1": 0.145,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 9.33751,
+        "q_now_m3s": 8.76581,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.004,
+      "chmu_wetness_0_1": 0.014,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 8.51121,
+        "q_now_m3s": 9.20934,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -130,15 +130,15 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.003,
+      "chmu_wetness_0_1": 0.024,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 11.04441,
+        "q_now_m3s": 13.26682,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.122,
+      "community_activity_0_1": 0.121,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.0,
@@ -146,11 +146,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.076,
+      "chmu_wetness_0_1": 0.128,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.27213,
+        "q_now_m3s": 1.52962,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -166,11 +166,11 @@
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 1.65571,
+        "q_now_m3s": 1.7833,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.731,
+      "community_activity_0_1": 0.735,
       "community_source": {
         "posts_7d": 30,
         "species_keyword_hit_rate": 0.03,
@@ -194,11 +194,11 @@
       }
     },
     "zlinsky": {
-      "chmu_wetness_0_1": 0.075,
+      "chmu_wetness_0_1": 0.088,
       "chmu_source": {
         "gauge": "Strážnice",
         "river": "Morava",
-        "q_now_m3s": 11.17999,
+        "q_now_m3s": 12.04632,
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
