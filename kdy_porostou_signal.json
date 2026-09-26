@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T04:00:18.610539+00:00",
+  "generated_at": "2026-09-26T05:00:23.843405+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -14,11 +14,11 @@
       }
     },
     "stredocesky": {
-      "chmu_wetness_0_1": 0.259,
+      "chmu_wetness_0_1": 0.283,
       "chmu_source": {
         "gauge": "Praha-Zbraslav",
         "river": "Vltava",
-        "q_now_m3s": 42.58413,
+        "q_now_m3s": 44.14,
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
@@ -30,15 +30,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.169,
+      "chmu_wetness_0_1": 0.159,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 12.45,
+        "q_now_m3s": 12.28,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.47,
+      "community_activity_0_1": 0.469,
       "community_source": {
         "posts_7d": 40,
         "species_keyword_hit_rate": 0.05,
@@ -50,7 +50,7 @@
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 2.60766,
+        "q_now_m3s": 2.82975,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
@@ -62,11 +62,11 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.018,
+      "chmu_wetness_0_1": 0.011,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 5.37662,
+        "q_now_m3s": 5.03449,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
@@ -94,11 +94,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.311,
+      "chmu_wetness_0_1": 0.297,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 11.58644,
+        "q_now_m3s": 11.30588,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -110,11 +110,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.021,
+      "chmu_wetness_0_1": 0.011,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 9.6974,
+        "q_now_m3s": 8.9721,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -150,7 +150,7 @@
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.291,
+      "community_activity_0_1": 0.29,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.15,
@@ -162,7 +162,7 @@
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 1.16454,
+        "q_now_m3s": 1.04655,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
