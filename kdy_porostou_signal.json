@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:00:16.174197+00:00",
+  "generated_at": "2026-09-26T04:00:18.610539+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -30,11 +30,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.174,
+      "chmu_wetness_0_1": 0.169,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 12.53,
+        "q_now_m3s": 12.45,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -50,7 +50,7 @@
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 2.38864,
+        "q_now_m3s": 2.60766,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
@@ -110,11 +110,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.039,
+      "chmu_wetness_0_1": 0.021,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 10.72784,
+        "q_now_m3s": 9.6974,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -166,9 +166,9 @@
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.446,
+      "community_activity_0_1": 0.479,
       "community_source": {
-        "posts_7d": 23,
+        "posts_7d": 24,
         "species_keyword_hit_rate": 0.04,
         "provider": "nahouby.cz/kde-rostou"
       }
@@ -190,11 +190,11 @@
       }
     },
     "zlinsky": {
-      "chmu_wetness_0_1": 0.062,
+      "chmu_wetness_0_1": 0.055,
       "chmu_source": {
         "gauge": "Strážnice",
         "river": "Morava",
-        "q_now_m3s": 10.31399,
+        "q_now_m3s": 9.88111,
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
