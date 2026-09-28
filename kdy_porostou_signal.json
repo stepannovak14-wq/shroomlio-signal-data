@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:00:16.808475+00:00",
+  "generated_at": "2026-09-28T01:00:16.593972+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.004,
@@ -34,15 +34,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.007,
+      "chmu_wetness_0_1": 0.006,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 8.45,
+        "q_now_m3s": 8.42,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.788,
+      "community_activity_0_1": 0.787,
       "community_source": {
         "posts_7d": 40,
         "species_keyword_hit_rate": 0.03,
@@ -54,11 +54,11 @@
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 3.28314,
+        "q_now_m3s": 3.05491,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.856,
+      "community_activity_0_1": 0.855,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.0,
@@ -66,11 +66,11 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.025,
+      "chmu_wetness_0_1": 0.018,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 5.73101,
+        "q_now_m3s": 5.37662,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
@@ -98,11 +98,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.067,
+      "chmu_wetness_0_1": 0.049,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 7.14659,
+        "q_now_m3s": 6.64166,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -154,7 +154,7 @@
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.562,
+      "community_activity_0_1": 0.561,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.15,
