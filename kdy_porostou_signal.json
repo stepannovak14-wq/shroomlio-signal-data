@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:00:16.077114+00:00",
+  "generated_at": "2026-09-30T04:00:15.958199+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -14,11 +14,11 @@
       }
     },
     "stredocesky": {
-      "chmu_wetness_0_1": 0.259,
+      "chmu_wetness_0_1": 0.18,
       "chmu_source": {
         "gauge": "Praha-Zbraslav",
         "river": "Vltava",
-        "q_now_m3s": 42.58413,
+        "q_now_m3s": 41.03986,
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
@@ -30,15 +30,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.015,
+      "chmu_wetness_0_1": 0.003,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9,
+        "q_now_m3s": 7.93,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.484,
+      "community_activity_0_1": 0.483,
       "community_source": {
         "posts_7d": 38,
         "species_keyword_hit_rate": 0.03,
@@ -126,11 +126,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.003,
+      "chmu_wetness_0_1": 0.01,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 9.8277,
+        "q_now_m3s": 11.73223,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -142,11 +142,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.149,
+      "chmu_wetness_0_1": 0.128,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.62193,
+        "q_now_m3s": 1.52962,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -162,7 +162,7 @@
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 1.65571,
+        "q_now_m3s": 1.40628,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
