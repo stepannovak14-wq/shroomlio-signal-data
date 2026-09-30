@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:00:17.442230+00:00",
+  "generated_at": "2026-09-30T06:00:16.056845+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -30,15 +30,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.034,
+      "chmu_wetness_0_1": 0.02,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 10.02,
+        "q_now_m3s": 9.38,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.481,
+      "community_activity_0_1": 0.48,
       "community_source": {
         "posts_7d": 38,
         "species_keyword_hit_rate": 0.03,
@@ -86,10 +86,10 @@
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.338,
+      "community_activity_0_1": 0.314,
       "community_source": {
-        "posts_7d": 20,
-        "species_keyword_hit_rate": 0.15,
+        "posts_7d": 19,
+        "species_keyword_hit_rate": 0.11,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
@@ -110,11 +110,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.014,
+      "chmu_wetness_0_1": 0.029,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 9.20934,
+        "q_now_m3s": 10.20356,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -142,11 +142,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.128,
+      "chmu_wetness_0_1": 0.107,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.52962,
+        "q_now_m3s": 1.44056,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
