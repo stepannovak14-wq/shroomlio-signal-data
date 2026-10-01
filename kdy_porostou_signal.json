@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:00:18.046160+00:00",
+  "generated_at": "2026-10-01T01:00:16.898196+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.003,
@@ -34,15 +34,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.16,
+      "chmu_wetness_0_1": 0.192,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 12.3,
+        "q_now_m3s": 12.84,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.406,
+      "community_activity_0_1": 0.405,
       "community_source": {
         "posts_7d": 38,
         "species_keyword_hit_rate": 0.03,
@@ -54,7 +54,7 @@
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 3.51444,
+        "q_now_m3s": 3.28314,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.011,
+      "chmu_wetness_0_1": 0.007,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 8.9721,
+        "q_now_m3s": 8.73939,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -130,11 +130,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.047,
+      "chmu_wetness_0_1": 0.034,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 15.01334,
+        "q_now_m3s": 14.11359,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -154,7 +154,7 @@
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.516,
+      "community_activity_0_1": 0.515,
       "community_source": {
         "posts_7d": 30,
         "species_keyword_hit_rate": 0.13,
@@ -186,7 +186,7 @@
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.342,
+      "community_activity_0_1": 0.343,
       "community_source": {
         "posts_7d": 18,
         "species_keyword_hit_rate": 0.56,
