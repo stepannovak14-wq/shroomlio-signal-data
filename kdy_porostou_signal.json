@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:00:16.497740+00:00",
+  "generated_at": "2026-10-01T05:00:17.648204+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -30,15 +30,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.201,
+      "chmu_wetness_0_1": 0.003,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 12.99,
+        "q_now_m3s": 8.15,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.397,
+      "community_activity_0_1": 0.396,
       "community_source": {
         "posts_7d": 38,
         "species_keyword_hit_rate": 0.03,
@@ -70,7 +70,7 @@
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.127,
+      "community_activity_0_1": 0.126,
       "community_source": {
         "posts_7d": 21,
         "species_keyword_hit_rate": 0.0,
@@ -94,11 +94,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.128,
+      "chmu_wetness_0_1": 0.003,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 8.48506,
+        "q_now_m3s": 4.30428,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -126,11 +126,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.003,
+      "chmu_wetness_0_1": 0.013,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 11.04441,
+        "q_now_m3s": 12.09601,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -142,11 +142,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.027,
+      "chmu_wetness_0_1": 0.076,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 0.97413,
+        "q_now_m3s": 1.27213,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -162,7 +162,7 @@
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 1.7833,
+        "q_now_m3s": 1.53003,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
