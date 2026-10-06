@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T05:00:34.854627+00:00",
+  "generated_at": "2026-10-06T06:00:32.355914+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
       "chmu_source": {
         "error": ""
       },
-      "community_activity_0_1": 0.218,
+      "community_activity_0_1": 0.219,
       "community_source": {
         "posts_7d": 21,
         "species_keyword_hit_rate": 0.19,
@@ -14,27 +14,27 @@
       }
     },
     "stredocesky": {
-      "chmu_wetness_0_1": 0.096,
+      "chmu_wetness_0_1": 0.18,
       "chmu_source": {
         "gauge": "Praha-Zbraslav",
         "river": "Vltava",
-        "q_now_m3s": 39.50719,
+        "q_now_m3s": 41.03986,
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.75,
+      "community_activity_0_1": 0.847,
       "community_source": {
-        "posts_7d": 16,
+        "posts_7d": 17,
         "species_keyword_hit_rate": 0.06,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.008,
+      "chmu_wetness_0_1": 0.011,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 8.55,
+        "q_now_m3s": 8.76,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -94,15 +94,15 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.025,
+      "chmu_wetness_0_1": 0.031,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 5.91688,
+        "q_now_m3s": 6.15412,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.812,
+      "community_activity_0_1": 0.811,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.15,
@@ -110,15 +110,15 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.014,
+      "chmu_wetness_0_1": 0.004,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 9.20934,
+        "q_now_m3s": 8.51121,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.651,
+      "community_activity_0_1": 0.652,
       "community_source": {
         "posts_7d": 18,
         "species_keyword_hit_rate": 0.28,
@@ -126,11 +126,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.01,
+      "chmu_wetness_0_1": 0.183,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 11.73223,
+        "q_now_m3s": 21.46199,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -142,15 +142,15 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.022,
+      "chmu_wetness_0_1": 0.128,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 0.90772,
+        "q_now_m3s": 1.52962,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.949,
+      "community_activity_0_1": 0.948,
       "community_source": {
         "posts_7d": 32,
         "species_keyword_hit_rate": 0.16,
@@ -166,7 +166,7 @@
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.656,
+      "community_activity_0_1": 0.657,
       "community_source": {
         "posts_7d": 15,
         "species_keyword_hit_rate": 0.13,
@@ -182,7 +182,7 @@
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.556,
+      "community_activity_0_1": 0.557,
       "community_source": {
         "posts_7d": 15,
         "species_keyword_hit_rate": 0.13,
@@ -198,7 +198,7 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.463,
+      "community_activity_0_1": 0.464,
       "community_source": {
         "posts_7d": 13,
         "species_keyword_hit_rate": 0.15,
