@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:58:17.791127+00:00",
+  "generated_at": "2026-10-11T16:58:15.845074+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.004,
@@ -18,11 +18,11 @@
       }
     },
     "stredocesky": {
-      "chmu_wetness_0_1": 0.096,
+      "chmu_wetness_0_1": 0.283,
       "chmu_source": {
         "gauge": "Praha-Zbraslav",
         "river": "Vltava",
-        "q_now_m3s": 39.50719,
+        "q_now_m3s": 44.14,
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
@@ -34,15 +34,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.015,
+      "chmu_wetness_0_1": 0.016,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.04,
+        "q_now_m3s": 9.11,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.17,
+      "community_activity_0_1": 0.169,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.0,
@@ -82,15 +82,15 @@
       }
     },
     "ustecky": {
-      "chmu_wetness_0_1": 0.021,
+      "chmu_wetness_0_1": 0.024,
       "chmu_source": {
         "gauge": "Trmice",
         "river": "Bílina",
-        "q_now_m3s": 1.72968,
+        "q_now_m3s": 1.8034,
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.3,
+      "community_activity_0_1": 0.301,
       "community_source": {
         "posts_7d": 16,
         "species_keyword_hit_rate": 0.06,
@@ -106,7 +106,7 @@
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.321,
+      "community_activity_0_1": 0.32,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.12,
@@ -130,11 +130,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.183,
+      "chmu_wetness_0_1": 0.165,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 21.46199,
+        "q_now_m3s": 20.87387,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -146,11 +146,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.012,
+      "chmu_wetness_0_1": 0.197,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 0.78461,
+        "q_now_m3s": 1.81624,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -162,11 +162,11 @@
       }
     },
     "jihomoravsky": {
-      "chmu_wetness_0_1": 0.018,
+      "chmu_wetness_0_1": 0.013,
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 3.85357,
+        "q_now_m3s": 3.58672,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
@@ -202,9 +202,9 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.663,
+      "community_activity_0_1": 0.626,
       "community_source": {
-        "posts_7d": 20,
+        "posts_7d": 19,
         "species_keyword_hit_rate": 0.0,
         "provider": "nahouby.cz/kde-rostou"
       }
@@ -218,9 +218,9 @@
         "qa_normal_m3s": 12.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.437,
+      "community_activity_0_1": 0.492,
       "community_source": {
-        "posts_7d": 17,
+        "posts_7d": 18,
         "species_keyword_hit_rate": 0.06,
         "provider": "nahouby.cz/kde-rostou"
       }
