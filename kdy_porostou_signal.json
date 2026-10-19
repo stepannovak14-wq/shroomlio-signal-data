@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:58:19.814374+00:00",
+  "generated_at": "2026-10-19T11:58:18.119328+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.003,
@@ -38,11 +38,11 @@
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.62,
+        "q_now_m3s": 9.67,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.293,
+      "community_activity_0_1": 0.285,
       "community_source": {
         "posts_7d": 25,
         "species_keyword_hit_rate": 0.04,
@@ -58,9 +58,9 @@
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.069,
+      "community_activity_0_1": 0.123,
       "community_source": {
-        "posts_7d": 21,
+        "posts_7d": 22,
         "species_keyword_hit_rate": 0.14,
         "provider": "nahouby.cz/kde-rostou"
       }
@@ -98,15 +98,15 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.086,
+      "chmu_wetness_0_1": 0.049,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 7.66893,
+        "q_now_m3s": 6.64166,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.441,
+      "community_activity_0_1": 0.44,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.19,
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.021,
+      "chmu_wetness_0_1": 0.011,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 9.6974,
+        "q_now_m3s": 8.9721,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -146,15 +146,15 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.197,
+      "chmu_wetness_0_1": 0.149,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.81624,
+        "q_now_m3s": 1.62193,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.539,
+      "community_activity_0_1": 0.53,
       "community_source": {
         "posts_7d": 30,
         "species_keyword_hit_rate": 0.13,
@@ -162,11 +162,11 @@
       }
     },
     "jihomoravsky": {
-      "chmu_wetness_0_1": 0.006,
+      "chmu_wetness_0_1": 0.003,
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 3.20373,
+        "q_now_m3s": 3.08067,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
@@ -218,9 +218,9 @@
         "qa_normal_m3s": 12.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.969,
+      "community_activity_0_1": 0.229,
       "community_source": {
-        "posts_7d": 28,
+        "posts_7d": 14,
         "species_keyword_hit_rate": 0.14,
         "provider": "nahouby.cz/kde-rostou"
       }
