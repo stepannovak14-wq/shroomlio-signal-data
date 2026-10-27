@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:58:16.879578+00:00",
+  "generated_at": "2026-10-27T22:58:16.822467+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.022,
@@ -34,15 +34,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.017,
+      "chmu_wetness_0_1": 0.014,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.14,
+        "q_now_m3s": 8.98,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.425,
+      "community_activity_0_1": 0.424,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.08,
@@ -66,15 +66,15 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.09,
+      "chmu_wetness_0_1": 0.107,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 7.68645,
+        "q_now_m3s": 8.11329,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.275,
+      "community_activity_0_1": 0.274,
       "community_source": {
         "posts_7d": 24,
         "species_keyword_hit_rate": 0.0,
@@ -90,7 +90,7 @@
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.57,
+      "community_activity_0_1": 0.569,
       "community_source": {
         "posts_7d": 16,
         "species_keyword_hit_rate": 0.25,
@@ -106,7 +106,7 @@
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.807,
+      "community_activity_0_1": 0.806,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.14,
@@ -114,15 +114,15 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.062,
+      "chmu_wetness_0_1": 0.045,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 11.97024,
+        "q_now_m3s": 11.04026,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.424,
+      "community_activity_0_1": 0.423,
       "community_source": {
         "posts_7d": 21,
         "species_keyword_hit_rate": 0.05,
@@ -130,11 +130,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.003,
+      "chmu_wetness_0_1": 0.081,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 9.8277,
+        "q_now_m3s": 17.4945,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -146,15 +146,15 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.171,
+      "chmu_wetness_0_1": 0.197,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.71747,
+        "q_now_m3s": 1.81624,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.375,
+      "community_activity_0_1": 0.374,
       "community_source": {
         "posts_7d": 30,
         "species_keyword_hit_rate": 0.13,
@@ -170,7 +170,7 @@
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.443,
+      "community_activity_0_1": 0.442,
       "community_source": {
         "posts_7d": 19,
         "species_keyword_hit_rate": 0.11,
@@ -186,7 +186,7 @@
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.173,
+      "community_activity_0_1": 0.172,
       "community_source": {
         "posts_7d": 11,
         "species_keyword_hit_rate": 0.18,
@@ -202,7 +202,7 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.924,
+      "community_activity_0_1": 0.922,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.07,
