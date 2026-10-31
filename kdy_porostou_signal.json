@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:58:22.047575+00:00",
+  "generated_at": "2026-10-31T04:58:16.912145+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -30,15 +30,15 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.003,
+      "chmu_wetness_0_1": 0.009,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 7.9,
+        "q_now_m3s": 8.59,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.516,
+      "community_activity_0_1": 0.515,
       "community_source": {
         "posts_7d": 25,
         "species_keyword_hit_rate": 0.08,
@@ -46,11 +46,11 @@
       }
     },
     "plzensky": {
-      "chmu_wetness_0_1": 0.016,
+      "chmu_wetness_0_1": 0.008,
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 4.00985,
+        "q_now_m3s": 3.74004,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
@@ -62,15 +62,15 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.107,
+      "chmu_wetness_0_1": 0.09,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 8.11329,
+        "q_now_m3s": 7.68645,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.22,
+      "community_activity_0_1": 0.219,
       "community_source": {
         "posts_7d": 24,
         "species_keyword_hit_rate": 0.0,
@@ -86,7 +86,7 @@
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.566,
+      "community_activity_0_1": 0.565,
       "community_source": {
         "posts_7d": 16,
         "species_keyword_hit_rate": 0.25,
@@ -102,7 +102,7 @@
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.876,
+      "community_activity_0_1": 0.875,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.14,
@@ -118,7 +118,7 @@
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.328,
+      "community_activity_0_1": 0.327,
       "community_source": {
         "posts_7d": 21,
         "species_keyword_hit_rate": 0.05,
@@ -142,15 +142,15 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.197,
+      "chmu_wetness_0_1": 0.171,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.81624,
+        "q_now_m3s": 1.71747,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.466,
+      "community_activity_0_1": 0.465,
       "community_source": {
         "posts_7d": 26,
         "species_keyword_hit_rate": 0.15,
@@ -166,7 +166,7 @@
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.406,
+      "community_activity_0_1": 0.404,
       "community_source": {
         "posts_7d": 19,
         "species_keyword_hit_rate": 0.11,
@@ -174,15 +174,15 @@
       }
     },
     "olomoucky": {
-      "chmu_wetness_0_1": 0.006,
+      "chmu_wetness_0_1": 0.003,
       "chmu_source": {
         "gauge": "Olomouc-Nové Sady",
         "river": "Morava",
-        "q_now_m3s": 3.464,
+        "q_now_m3s": 2.81358,
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.161,
+      "community_activity_0_1": 0.16,
       "community_source": {
         "posts_7d": 11,
         "species_keyword_hit_rate": 0.18,
@@ -198,7 +198,7 @@
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.853,
+      "community_activity_0_1": 0.85,
       "community_source": {
         "posts_7d": 28,
         "species_keyword_hit_rate": 0.07,
