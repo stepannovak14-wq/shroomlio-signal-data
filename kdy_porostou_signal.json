@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:58:18.233471+00:00",
+  "generated_at": "2026-11-22T20:58:29.076480+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.425,
@@ -10,7 +10,7 @@
         "qa_normal_m3s": 233,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.855,
+      "community_activity_0_1": 0.856,
       "community_source": {
         "posts_7d": 25,
         "species_keyword_hit_rate": 0.2,
@@ -34,11 +34,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.012,
+      "chmu_wetness_0_1": 0.018,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 8.8,
+        "q_now_m3s": 9.26,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -66,11 +66,11 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.769,
+      "chmu_wetness_0_1": 0.762,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 31.6678,
+        "q_now_m3s": 30.86926,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.652,
+      "chmu_wetness_0_1": 0.664,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 39.33786,
+        "q_now_m3s": 40.37759,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -130,15 +130,15 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.636,
+      "chmu_wetness_0_1": 0.081,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 49.44784,
+        "q_now_m3s": 17.4945,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.076,
+      "community_activity_0_1": 0.075,
       "community_source": {
         "posts_7d": 20,
         "species_keyword_hit_rate": 0.05,
@@ -146,11 +146,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.128,
+      "chmu_wetness_0_1": 0.022,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.52962,
+        "q_now_m3s": 0.90772,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -162,11 +162,11 @@
       }
     },
     "jihomoravsky": {
-      "chmu_wetness_0_1": 0.039,
+      "chmu_wetness_0_1": 0.032,
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 4.56096,
+        "q_now_m3s": 4.41488,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
@@ -178,11 +178,11 @@
       }
     },
     "olomoucky": {
-      "chmu_wetness_0_1": 0.541,
+      "chmu_wetness_0_1": 0.532,
       "chmu_source": {
         "gauge": "Olomouc-Nové Sady",
         "river": "Morava",
-        "q_now_m3s": 17.66793,
+        "q_now_m3s": 17.26281,
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
@@ -194,11 +194,11 @@
       }
     },
     "zlinsky": {
-      "chmu_wetness_0_1": 0.485,
+      "chmu_wetness_0_1": 0.473,
       "chmu_source": {
         "gauge": "Strážnice",
         "river": "Morava",
-        "q_now_m3s": 35.21221,
+        "q_now_m3s": 34.31839,
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
