@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:58:18.524492+00:00",
+  "generated_at": "2026-11-22T04:58:18.223043+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -30,11 +30,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.017,
+      "chmu_wetness_0_1": 0.007,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.13,
+        "q_now_m3s": 8.44,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -46,11 +46,11 @@
       }
     },
     "plzensky": {
-      "chmu_wetness_0_1": 0.399,
+      "chmu_wetness_0_1": 0.417,
       "chmu_source": {
         "gauge": "Plzeň-Bílá Hora",
         "river": "Berounka",
-        "q_now_m3s": 9.77469,
+        "q_now_m3s": 10.07516,
         "qa_normal_m3s": 17.5,
         "reference_period": "1991 - 2020"
       },
@@ -62,11 +62,11 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.82,
+      "chmu_wetness_0_1": 0.813,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 38.29946,
+        "q_now_m3s": 37.44685,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
@@ -78,11 +78,11 @@
       }
     },
     "ustecky": {
-      "chmu_wetness_0_1": 0.021,
+      "chmu_wetness_0_1": 0.017,
       "chmu_source": {
         "gauge": "Trmice",
         "river": "Bílina",
-        "q_now_m3s": 1.72968,
+        "q_now_m3s": 1.65906,
         "qa_normal_m3s": 5.91,
         "reference_period": "1991 - 2020"
       },
@@ -94,11 +94,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.858,
+      "chmu_wetness_0_1": 0.851,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 39.41612,
+        "q_now_m3s": 38.2919,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -110,11 +110,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.689,
+      "chmu_wetness_0_1": 0.728,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 43.00826,
+        "q_now_m3s": 47.31044,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -126,11 +126,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.679,
+      "chmu_wetness_0_1": 0.674,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 54.39646,
+        "q_now_m3s": 53.55809,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -142,11 +142,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.128,
+      "chmu_wetness_0_1": 0.171,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.52962,
+        "q_now_m3s": 1.71747,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -174,11 +174,11 @@
       }
     },
     "olomoucky": {
-      "chmu_wetness_0_1": 0.668,
+      "chmu_wetness_0_1": 0.66,
       "chmu_source": {
         "gauge": "Olomouc-Nové Sady",
         "river": "Morava",
-        "q_now_m3s": 23.71037,
+        "q_now_m3s": 23.30259,
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
@@ -190,11 +190,11 @@
       }
     },
     "zlinsky": {
-      "chmu_wetness_0_1": 0.233,
+      "chmu_wetness_0_1": 0.25,
       "chmu_source": {
         "gauge": "Strážnice",
         "river": "Morava",
-        "q_now_m3s": 19.42328,
+        "q_now_m3s": 20.2927,
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
@@ -206,11 +206,11 @@
       }
     },
     "moravskoslezsky": {
-      "chmu_wetness_0_1": 0.404,
+      "chmu_wetness_0_1": 0.378,
       "chmu_source": {
         "gauge": "Svinov",
         "river": "Odra",
-        "q_now_m3s": 5.16362,
+        "q_now_m3s": 4.83896,
         "qa_normal_m3s": 12.5,
         "reference_period": "1991 - 2020"
       },
