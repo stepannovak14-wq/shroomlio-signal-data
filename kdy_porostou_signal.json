@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:58:19.113964+00:00",
+  "generated_at": "2026-11-25T00:58:17.904283+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.213,
@@ -34,11 +34,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.024,
+      "chmu_wetness_0_1": 0.02,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.63,
+        "q_now_m3s": 9.37,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.387,
+      "chmu_wetness_0_1": 0.397,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 22.90538,
+        "q_now_m3s": 23.33998,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -154,7 +154,7 @@
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.096,
+      "community_activity_0_1": 0.095,
       "community_source": {
         "posts_7d": 27,
         "species_keyword_hit_rate": 0.22,
@@ -178,11 +178,11 @@
       }
     },
     "olomoucky": {
-      "chmu_wetness_0_1": 0.218,
+      "chmu_wetness_0_1": 0.201,
       "chmu_source": {
         "gauge": "Olomouc-Nové Sady",
         "river": "Morava",
-        "q_now_m3s": 9.1615,
+        "q_now_m3s": 8.80224,
         "qa_normal_m3s": 24.5,
         "reference_period": "1991 - 2020"
       },
