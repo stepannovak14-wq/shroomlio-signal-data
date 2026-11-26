@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:58:18.077283+00:00",
+  "generated_at": "2026-11-26T13:58:19.201432+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.04,
@@ -10,7 +10,7 @@
         "qa_normal_m3s": 233,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.726,
+      "community_activity_0_1": 0.751,
       "community_source": {
         "posts_7d": 24,
         "species_keyword_hit_rate": 0.21,
@@ -34,11 +34,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.018,
+      "chmu_wetness_0_1": 0.022,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 9.23,
+        "q_now_m3s": 9.5,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -66,11 +66,11 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.477,
+      "chmu_wetness_0_1": 0.455,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 16.51068,
+        "q_now_m3s": 15.89938,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
@@ -98,15 +98,15 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.475,
+      "chmu_wetness_0_1": 0.462,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 15.55732,
+        "q_now_m3s": 15.19318,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.139,
+      "community_activity_0_1": 0.144,
       "community_source": {
         "posts_7d": 27,
         "species_keyword_hit_rate": 0.15,
@@ -114,11 +114,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.357,
+      "chmu_wetness_0_1": 0.367,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 21.62457,
+        "q_now_m3s": 22.04767,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -130,11 +130,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.218,
+      "chmu_wetness_0_1": 0.3,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 22.65456,
+        "q_now_m3s": 25.73117,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -146,11 +146,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.076,
+      "chmu_wetness_0_1": 0.09,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.27213,
+        "q_now_m3s": 1.35473,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -162,18 +162,18 @@
       }
     },
     "jihomoravsky": {
-      "chmu_wetness_0_1": 0.018,
+      "chmu_wetness_0_1": 0.032,
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 3.85357,
+        "q_now_m3s": 4.41488,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.457,
+      "community_activity_0_1": 0.686,
       "community_source": {
-        "posts_7d": 17,
-        "species_keyword_hit_rate": 0.12,
+        "posts_7d": 18,
+        "species_keyword_hit_rate": 0.11,
         "provider": "nahouby.cz/kde-rostou"
       }
     },
@@ -210,18 +210,18 @@
       }
     },
     "moravskoslezsky": {
-      "chmu_wetness_0_1": 0.117,
+      "chmu_wetness_0_1": 0.14,
       "chmu_source": {
         "gauge": "Svinov",
         "river": "Odra",
-        "q_now_m3s": 2.10418,
+        "q_now_m3s": 2.33578,
         "qa_normal_m3s": 12.5,
         "reference_period": "1991 - 2020"
       },
       "community_activity_0_1": 0.0,
       "community_source": {
-        "posts_7d": 13,
-        "species_keyword_hit_rate": 0.15,
+        "posts_7d": 12,
+        "species_keyword_hit_rate": 0.17,
         "provider": "nahouby.cz/kde-rostou"
       }
     }
