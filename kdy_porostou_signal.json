@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T01:58:17.252591+00:00",
+  "generated_at": "2026-11-27T02:58:18.506519+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
       "chmu_source": {
         "error": ""
       },
-      "community_activity_0_1": 0.814,
+      "community_activity_0_1": 0.813,
       "community_source": {
         "posts_7d": 24,
         "species_keyword_hit_rate": 0.17,
@@ -30,11 +30,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.044,
+      "chmu_wetness_0_1": 0.026,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 10.21,
+        "q_now_m3s": 9.77,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -62,11 +62,11 @@
       }
     },
     "karlovarsky": {
-      "chmu_wetness_0_1": 0.477,
+      "chmu_wetness_0_1": 0.501,
       "chmu_source": {
         "gauge": "Karlovy Vary-Drahovice",
         "river": "Ohře",
-        "q_now_m3s": 16.51068,
+        "q_now_m3s": 17.13352,
         "qa_normal_m3s": 25.5,
         "reference_period": "1991 - 2020"
       },
@@ -126,11 +126,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.236,
+      "chmu_wetness_0_1": 0.3,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 23.259,
+        "q_now_m3s": 25.73117,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -142,11 +142,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.107,
+      "chmu_wetness_0_1": 0.128,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.44056,
+        "q_now_m3s": 1.52962,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -158,11 +158,11 @@
       }
     },
     "jihomoravsky": {
-      "chmu_wetness_0_1": 0.047,
+      "chmu_wetness_0_1": 0.054,
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 4.70935,
+        "q_now_m3s": 4.86004,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
