@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:58:18.520658+00:00",
+  "generated_at": "2026-11-28T00:58:17.977285+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": 0.084,
@@ -34,11 +34,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.044,
+      "chmu_wetness_0_1": 0.034,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 10.2,
+        "q_now_m3s": 10.01,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -98,15 +98,15 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.393,
+      "chmu_wetness_0_1": 0.422,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 13.44134,
+        "q_now_m3s": 14.125,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.109,
+      "community_activity_0_1": 0.108,
       "community_source": {
         "posts_7d": 27,
         "species_keyword_hit_rate": 0.15,
@@ -130,11 +130,11 @@
       }
     },
     "pardubicky": {
-      "chmu_wetness_0_1": 0.183,
+      "chmu_wetness_0_1": 0.2,
       "chmu_source": {
         "gauge": "Přelouč",
         "river": "Labe",
-        "q_now_m3s": 21.46199,
+        "q_now_m3s": 22.05555,
         "qa_normal_m3s": 53.5,
         "reference_period": "1991 - 2020"
       },
@@ -146,11 +146,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.09,
+      "chmu_wetness_0_1": 0.076,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.35473,
+        "q_now_m3s": 1.27213,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -170,7 +170,7 @@
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
-      "community_activity_0_1": 0.77,
+      "community_activity_0_1": 0.771,
       "community_source": {
         "posts_7d": 19,
         "species_keyword_hit_rate": 0.11,
