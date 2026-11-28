@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:58:18.653151+00:00",
+  "generated_at": "2026-11-28T02:58:19.931757+00:00",
   "kraje": {
     "praha": {
       "chmu_wetness_0_1": null,
@@ -18,7 +18,7 @@
       "chmu_source": {
         "gauge": "Praha-Zbraslav",
         "river": "Vltava",
-        "q_now_m3s": 28.39548,
+        "q_now_m3s": 30.36673,
         "qa_normal_m3s": 98,
         "reference_period": "1991 - 2020"
       },
@@ -30,11 +30,11 @@
       }
     },
     "jihocesky": {
-      "chmu_wetness_0_1": 0.05,
+      "chmu_wetness_0_1": 0.043,
       "chmu_source": {
         "gauge": "České Budějovice",
         "river": "Vltava",
-        "q_now_m3s": 10.33,
+        "q_now_m3s": 10.18,
         "qa_normal_m3s": 25.6,
         "reference_period": "1991 - 2020"
       },
@@ -94,11 +94,11 @@
       }
     },
     "liberecky": {
-      "chmu_wetness_0_1": 0.407,
+      "chmu_wetness_0_1": 0.341,
       "chmu_source": {
         "gauge": "Tuřice-Předměřice",
         "river": "Jizera",
-        "q_now_m3s": 13.77908,
+        "q_now_m3s": 12.17206,
         "qa_normal_m3s": 23.1,
         "reference_period": "1991 - 2020"
       },
@@ -110,11 +110,11 @@
       }
     },
     "kralovehradecky": {
-      "chmu_wetness_0_1": 0.265,
+      "chmu_wetness_0_1": 0.277,
       "chmu_source": {
         "gauge": "Němčice",
         "river": "Labe",
-        "q_now_m3s": 18.3777,
+        "q_now_m3s": 18.77014,
         "qa_normal_m3s": 41.8,
         "reference_period": "1991 - 2020"
       },
@@ -142,11 +142,11 @@
       }
     },
     "vysocina": {
-      "chmu_wetness_0_1": 0.09,
+      "chmu_wetness_0_1": 0.107,
       "chmu_source": {
         "gauge": "Třebíč-Ptáčov",
         "river": "Jihlava",
-        "q_now_m3s": 1.35473,
+        "q_now_m3s": 1.44056,
         "qa_normal_m3s": 4.98,
         "reference_period": "1991 - 2020"
       },
@@ -158,11 +158,11 @@
       }
     },
     "jihomoravsky": {
-      "chmu_wetness_0_1": 0.054,
+      "chmu_wetness_0_1": 0.047,
       "chmu_source": {
         "gauge": "Židlochovice",
         "river": "Svratka",
-        "q_now_m3s": 4.86004,
+        "q_now_m3s": 4.70935,
         "qa_normal_m3s": 14,
         "reference_period": "1991 - 2020"
       },
@@ -190,11 +190,11 @@
       }
     },
     "zlinsky": {
-      "chmu_wetness_0_1": 0.129,
+      "chmu_wetness_0_1": 0.12,
       "chmu_source": {
         "gauge": "Strážnice",
         "river": "Morava",
-        "q_now_m3s": 14.21357,
+        "q_now_m3s": 13.77996,
         "qa_normal_m3s": 54.7,
         "reference_period": "1991 - 2020"
       },
